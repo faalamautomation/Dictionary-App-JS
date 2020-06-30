@@ -3,7 +3,8 @@ This code belongs to the dictionary app made for the internship test in Telia.
 
 
 ##############################################################################
-First things First
+
+                          First things First
 ##############################################################################
 
 
