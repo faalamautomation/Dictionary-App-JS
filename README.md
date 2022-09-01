@@ -1,5 +1,5 @@
 # Dictionary-App-JS
-This code belongs to the dictionary app made for the internship test in Telia.
+This code belongs to the dictionary app made for the test in Taltech.
 
 
 ##############################################################################
@@ -13,6 +13,4 @@ Please install the visual studio code editor or any other which you like. after 
 After the setup just open the Front.html in any browser and go to enjoy it.
 
 
-Thank you for your valuable time
-
-I am looking forward to hear from you soon.
+Thank you for your valuable time.
